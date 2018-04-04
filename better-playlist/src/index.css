@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #195e5c;
+    font-family: 'Quicksand';
+    text-align: center;
+}
+
+button {
+    font-family: 'Quicksand';
+    border-radius: 8px;
+    color: #313080;
+    background-color: white;
+}
